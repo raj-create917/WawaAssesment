@@ -1,0 +1,2 @@
+[web]
+YourHostIP ansible_user=ubuntu ansible_private_key_file=~/Downloads/assignment-web.pem
