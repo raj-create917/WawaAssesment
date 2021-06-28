@@ -1,0 +1,4 @@
+env/uat/.terraform
+env/uat/.terraform/*
+env/prod/.terraform
+env/prod/.terraform/*
