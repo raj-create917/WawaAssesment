@@ -1,5 +1,8 @@
 # WAWA Assessment
 
+## Architecture 
+![Architecture](images/Architecture.png)
+
 ## Tools used:
 - Terraform
 - Ansible
